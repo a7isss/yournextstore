@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/64197310-29bd-4dd3-a736-1494340e20e8
 
 ### Node.js 20+
 
-We officially support the current LTS version – 20 at the time of writing. YNS should work on versions 18, 20, and 22. If you're using one of those versions and encounter a problem, please report it!
+We officially support the current LTS versions – 20 at the time of writing. YNS should work on versions 18, 20, and 22. If you're using one of those versions and encounter a problem, please report it!
 
 #### Installing Node.js
 
